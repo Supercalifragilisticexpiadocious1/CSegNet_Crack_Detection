@@ -81,7 +81,7 @@ Sylvie Chambon:
 https://www.irit.fr/~Sylvie.Chambon/Crack_Detection_Database.html
 
 Volker & Rissbilder:
-@article{pak2021crack,
+>@article{pak2021crack,
   title={Crack Detection Using Fully Convolutional Network in Wall-Climbing Robot},
   author={Park, J.J., Fong, S.J., Pan, Y., Sung, Y.},
   journal={Springer},
@@ -92,7 +92,7 @@ Volker & Rissbilder:
 }
 
 Eugen Muller:
-@article{ham2021training,
+>@article{ham2021training,
   title={Training a semantic segmentation model for cracks in the concrete lining of tunnel},
   author={Sangwoo Ham, Soohyeon Bae, Hwiyoung Kim, Impyeong Lee, Gyu-Phil Lee, Donggyou Kim},
   journal={ Journal of Korean Tunnelling and Underground Space Association 2021},
@@ -104,7 +104,7 @@ Eugen Muller:
 }
 
 DeepCrack:
-@article{liu2019deepcrack,
+>@article{liu2019deepcrack,
   title={DeepCrack: A Deep Hierarchical Feature Learning Architecture for Crack Segmentation},
   author={Liu, Yahui and Yao, Jian and Lu, Xiaohu and Xie, Renping and Li, Li},
   journal={Neurocomputing},
