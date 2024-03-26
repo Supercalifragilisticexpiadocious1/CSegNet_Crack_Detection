@@ -1,7 +1,7 @@
 ## CSegNet Crack Detection
 This repository contains CSegNet model code and crack detection dataset for detection purposes.
 
-This crack segmentation dataset contains around 11.298 images which are merged from 10 available crack segmentation dataset.
+This crack segmentation dataset contains around 11,298 images which are merged from 10 available crack segmentation dataset.
 The name prefix of each image is assigned to the corresponding dataset that the image belong to. 
 There're also images which contain no crack, which could be filtered out by the pattern "noncrack*"
 All the images in the dataset are resized to the size of (448, 448).
