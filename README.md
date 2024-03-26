@@ -39,7 +39,7 @@ CrackForest:
   publisher={IEEE}
 }
 
-@inproceedings{cui2015pavement,
+>@inproceedings{cui2015pavement,
   title={Pavement Distress Detection Using Random Decision Forests},
   author={Cui, Limeng and Qi, Zhiquan and Chen, Zhensong and Meng, Fan and Shi, Yong},
   booktitle={International Conference on Data Science},
