@@ -86,7 +86,7 @@ def disable_axis():
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('-img_dir', type=str, default='./datasets/test', help='input dataset directory')
+    parser.add_argument('-img_dir', type=str, default='./datasets/test/images', help='input dataset directory')
     parser.add_argument('-model_path', type=str, default='./models/model_best.pt', help='trained model path')
     parser.add_argument('-model_type', type=str, default='csegnet', choices=['csegnet'])
     parser.add_argument('-out_viz_dir', type=str, default='./test_results', required=False,
