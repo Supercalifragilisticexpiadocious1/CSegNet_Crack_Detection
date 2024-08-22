@@ -91,7 +91,7 @@ if __name__ == '__main__':
     parser.add_argument('-model_type', type=str, default='csegnet', choices=['csegnet'])
     parser.add_argument('-out_viz_dir', type=str, default='./test_results', required=False,
                         help='visualization output dir')
-    parser.add_argument('-out_pred_dir', type=str, default='./test_results', required=False,
+    parser.add_argument('-out_pred_dir', type=str, default='./pred_results', required=False,
                         help='prediction output dir')
     parser.add_argument('-threshold', type=float, default=0.2, help='threshold to cut off crack response')
     parser.add_argument('-in_dir', type=str, default='./test_images', help='threshold to cut off crack response')

@@ -6,7 +6,7 @@ The name prefix of each image is assigned to the corresponding dataset that the 
 There're also images which contain no crack, which could be filtered out by the pattern "noncrack*"
 All the images in the dataset are resized to the size of (448, 448).
 
->train_csegnet.py is used for model training, inference_csegnet.py is used for model testing.
+>train_csegnet.py is used for model training, inference_csegnet.py is used for model inference, and evaluate_csegnet.py is used for model evaluation.
 
 the two folders images and masks contain all the images.
 
